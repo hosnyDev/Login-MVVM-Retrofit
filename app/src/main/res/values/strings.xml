@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login-MVVM-Retrofit</string>
+    <string name="login_btn_text">login</string>
+    <string name="login_password_hint">Your Password</string>
+    <string name="login_email_hint">Your Email</string>
+    <string name="login_title">Login</string>
+    <string name="ok_alert_btn">OK</string>
+</resources>
